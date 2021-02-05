@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DoorDash Lite</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search_icon">Search icon</string>
+    <string name="no_results_could_be_found_for_this_query">No results could be found for this query</string>
+    <string name="error_loading_results">Error loading results</string>
+    <string name="second_string">|</string>
+    <string name="error_loading">Error loading results</string>
+    <string name="store_image">Store Image</string>
+</resources>
